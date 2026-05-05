@@ -93,10 +93,10 @@ python main.py
 
 ## Архитектура проекта
 python_project/
-├── main.py # Основной код приложения
-├── notes.json # Файл с сохранёнными заметками
-├── .gitignore # Исключения для Git
-└── README.md # Документация
+|├── main.py # Основной код приложения|
+|├── notes.json # Файл с сохранёнными заметками|
+|├── .gitignore # Исключения для Git|
+|└── README.md # Документация|
 
 ### Ссылка на GitHub
 https://github.com/mintsucrose/python_project
