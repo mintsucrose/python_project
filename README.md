@@ -32,6 +32,6 @@
 ## Как запустить
 
 ```bash
-git clone https://github.com/mintsucrose/notes-app.git
+git clone https://github.com/mintsucrose/python_project
 cd notes-app
 python main.py
