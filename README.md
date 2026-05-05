@@ -33,7 +33,7 @@
 ```bash
 git clone https://github.com/mintsucrose/python_project.git
 cd python_project
-python main.py
+python python_project.py
 ```
 После запуска откроется окно «Заметки».
 
@@ -92,11 +92,13 @@ python main.py
 | Граничный | Удаление заметки и отмена в диалоге | ✅ Заметка не удалена |
 
 ## Архитектура проекта
+```
 python_project/
-├── main.py # Основной код приложения
+├── python_project.py # Основной код приложения
 ├── notes.json # Файл с сохранёнными заметками
 ├── .gitignore # Исключения для Git
 └── README.md # Документация
+```
 
 ### Ссылка на GitHub
 https://github.com/mintsucrose/python_project
